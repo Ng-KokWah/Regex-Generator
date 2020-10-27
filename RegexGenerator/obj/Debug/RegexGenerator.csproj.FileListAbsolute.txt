@@ -1,0 +1,10 @@
+D:\(0) Applications\RegexGenerator\RegexGenerator\bin\Debug\RegexGenerator.exe.config
+D:\(0) Applications\RegexGenerator\RegexGenerator\bin\Debug\RegexGenerator.exe
+D:\(0) Applications\RegexGenerator\RegexGenerator\bin\Debug\RegexGenerator.pdb
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.csprojAssemblyReference.cache
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.RegexGenerator.resources
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.Properties.Resources.resources
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.csproj.GenerateResource.cache
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.exe
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.pdb
+D:\(0) Applications\RegexGenerator\RegexGenerator\obj\Debug\RegexGenerator.TestPatternRegex.resources
